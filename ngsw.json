@@ -1,0 +1,136 @@
+{
+  "configVersion": 1,
+  "timestamp": 1604492500726,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/1.4f4e90c553d2a19f87ff.js",
+        "/5.b04d86d712614f6e604d.js",
+        "/6.aee8a2855454f2aa0d54.js",
+        "/7.072f7ed6144bba87a7b6.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.ce3b4fdccf2e593479bd.js",
+        "/manifest.webmanifest",
+        "/polyfills.bf6d68455bd5d6cfaa1e.js",
+        "/runtime.789c09ecbc64b2023494.js",
+        "/scripts.7509da4d5ae8a31544fa.js",
+        "/styles.a983bc8a3542d9e21db8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/Chile_bespoke_bi.jpg",
+        "/assets/Forbes.png",
+        "/assets/Logo.PNG",
+        "/assets/bgpic.jpg",
+        "/assets/bgpic1.jpg",
+        "/assets/bgpic2.jpg",
+        "/assets/card 2.jpg",
+        "/assets/card 3.jpg",
+        "/assets/card1.jpg",
+        "/assets/params/css/index.css",
+        "/assets/params/css/navbar.css",
+        "/assets/slow-road.svg",
+        "/assets/traveler.png",
+        "/fa-brands-400.0fea24969112a781acd2.eot",
+        "/fa-brands-400.c967a94cfbe2b06627ff.woff2",
+        "/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
+        "/fa-brands-400.e33e2cf6e02cac2ccb77.svg",
+        "/fa-brands-400.ec82f282c7f54b637098.ttf",
+        "/fa-regular-400.06b9d19ced8d17f3d5cb.svg",
+        "/fa-regular-400.08f9891a6f44d9546678.eot",
+        "/fa-regular-400.1008b5226941c24f4468.woff2",
+        "/fa-regular-400.1069ea55beaa01060302.woff",
+        "/fa-regular-400.1495f578452eb676f730.ttf",
+        "/fa-solid-900.10ecefc282f2761808bf.ttf",
+        "/fa-solid-900.371dbce0dd46bd4d2033.svg",
+        "/fa-solid-900.3a24a60e7f9c6574864a.eot",
+        "/fa-solid-900.3ceb50e7bcafb577367c.woff2",
+        "/fa-solid-900.46fdbd2d897f8824e63c.woff",
+        "/layers-2x.8f2c4d11474275fbc161.png",
+        "/layers.416d91365b44e4b4f477.png",
+        "/marker-icon.2b3e1faf89f94a483539.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.4f4e90c553d2a19f87ff.js": "4aa5cc7ab6279030e0a3a43ccde901669a9dd2a8",
+    "/5.b04d86d712614f6e604d.js": "f27cdb70417573fd2676b7c2474d7b0443e10d85",
+    "/6.aee8a2855454f2aa0d54.js": "e5f4ac4af6ec584e7f03570343b0876732d093cb",
+    "/7.072f7ed6144bba87a7b6.js": "5608842da810cdfac957dc5d0940feeaf615a1a3",
+    "/assets/Chile_bespoke_bi.jpg": "ffe10857566348883a2beef519a3df039142f23e",
+    "/assets/Forbes.png": "6fe8c12500ba67e1e22854830aa16b25cc261aa0",
+    "/assets/Logo.PNG": "a3b6a103f198db495244b662ddf6ddd9caafb317",
+    "/assets/bgpic.jpg": "6881925b02334cc5c47ace2f4f19ffdd56b0aeb1",
+    "/assets/bgpic1.jpg": "62473af6fee630a9c5c3fc244495900050cb0431",
+    "/assets/bgpic2.jpg": "f05b1a3931c5c4d4c14af410d7ef924a19438c0f",
+    "/assets/card 2.jpg": "994584604f79db739a696791dad2c75c41f9c592",
+    "/assets/card 3.jpg": "a084e7a3f9c4ff8ae754dd9de21b3ddf8ef3083d",
+    "/assets/card1.jpg": "3127ec06658e66e95a61b06e4597c6dd8d3bb2e9",
+    "/assets/params/css/index.css": "c3820c7c9ffb103765c36b4f1dddb8dd587ea888",
+    "/assets/params/css/navbar.css": "ff79e944182091fe6b03c35a20c4ece19da91b7f",
+    "/assets/slow-road.svg": "780a00a6ca4dca6a51f760165672d9684d8f58e6",
+    "/assets/traveler.png": "35ff49583ef70ecbc1d8f252e41327b14a0e33df",
+    "/fa-brands-400.0fea24969112a781acd2.eot": "c719f4375679ee58e156434f9ba9727be669cf07",
+    "/fa-brands-400.c967a94cfbe2b06627ff.woff2": "f726c4275bb494a045fde059175f072de06c01df",
+    "/fa-brands-400.dc2cbadd690e1d4b2c9c.woff": "a42ac4a94f4e0e9333cdb1b2fb6c13c0ae690ff2",
+    "/fa-brands-400.e33e2cf6e02cac2ccb77.svg": "69a0ff79a9d93a451e9fa90bd79ae7008d2a9da5",
+    "/fa-brands-400.ec82f282c7f54b637098.ttf": "9b49c6c5b0cbdef158ae31b2a4e4814555408389",
+    "/fa-regular-400.06b9d19ced8d17f3d5cb.svg": "c41a688158d577e3a2738137992d49b05b17ab8f",
+    "/fa-regular-400.08f9891a6f44d9546678.eot": "2baa9a8aa68f1d2d4712b3c7205f9105aaf21879",
+    "/fa-regular-400.1008b5226941c24f4468.woff2": "fb9648469530a05fa9aac80e47d4d6960472a242",
+    "/fa-regular-400.1069ea55beaa01060302.woff": "26afc29d39ab9fac6d0b607be7e76db093ff7c3a",
+    "/fa-regular-400.1495f578452eb676f730.ttf": "d64e58981a419de52bac110c979887d34e366135",
+    "/fa-solid-900.10ecefc282f2761808bf.ttf": "d537bf4cc7273ddb3fd754d53f2b241aeafaefe7",
+    "/fa-solid-900.371dbce0dd46bd4d2033.svg": "36de6a298660ed3feaab37900f7b28c3e981d80e",
+    "/fa-solid-900.3a24a60e7f9c6574864a.eot": "c39b89f7fa7b66931ab02a54002db5ffcbff206c",
+    "/fa-solid-900.3ceb50e7bcafb577367c.woff2": "9b592048b9062b00f0b2dd782d70a95b7dc69b83",
+    "/fa-solid-900.46fdbd2d897f8824e63c.woff": "3b86a0ce15d8d534b65e98560e321a933d310688",
+    "/favicon.ico": "b03261f7f1a940cc221af641abc6397d13636ecd",
+    "/index.html": "866c3e8a50316dda70a7260f30962076da59c261",
+    "/layers-2x.8f2c4d11474275fbc161.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "/layers.416d91365b44e4b4f477.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "/main.ce3b4fdccf2e593479bd.js": "efdcdb1fb8bd533484a0eb7aadd34fad6a12502d",
+    "/manifest.webmanifest": "85e05bc91e09e81d4ae86e61a913cd8860b3f7be",
+    "/marker-icon.2b3e1faf89f94a483539.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "/polyfills.bf6d68455bd5d6cfaa1e.js": "f348073f7f5e9826a488fe60be23b2802b016a35",
+    "/runtime.789c09ecbc64b2023494.js": "3cbf7ebc9582ca2f830ffe019efb0d492940e833",
+    "/scripts.7509da4d5ae8a31544fa.js": "5fbd1013d85bebf03f4cfb2b98bb3c0430d63b15",
+    "/styles.a983bc8a3542d9e21db8.css": "ce8e4630212facfc18e9d3745a9b0bb842295182"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
